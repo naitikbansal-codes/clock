@@ -1,2 +1,2 @@
 # Clock
-This Is a 2 in one clock analog clock and a digital clock jusst with a switch button
+A simple Analog and Digital Clock built using HTML, CSS, and JavaScript with a toggle button to switch between both views in real-time.
